@@ -372,8 +372,20 @@
   },
   "sheets": [
     [
-      "98daa17b-0dcb-4519-9119-a9da6212be46",
+      "8616e96e-e1ab-43c6-8e06-b625378fc16e",
       ""
+    ],
+    [
+      "25c9bef4-19d7-4cf9-9dcd-ecc3e720ad67",
+      "CM4_ModuleA"
+    ],
+    [
+      "0f206677-1a7c-4cf3-876d-41fd766408b6",
+      "Pinout"
+    ],
+    [
+      "cb63fc1d-4244-4a7e-916a-90f484386cd1",
+      "CM4_ModuleB"
     ]
   ],
   "text_variables": {}
