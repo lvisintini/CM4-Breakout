@@ -1159,7 +1159,7 @@
   (symbol (lib_id "CM4IO:ComputeModule4-CM4") (at 8.89 93.98 0) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid "f6103e0f-4924-4107-9c5f-fec97d5a0114")
-    (property "Reference" "Module?" (id 0) (at 148.59 20.32 0))
+    (property "Reference" "Module1" (id 0) (at 148.59 20.32 0))
     (property "Value" "ComputeModule4-CM4" (id 1) (at 148.59 22.86 0))
     (property "Footprint" "CM4IO:Raspberry-Pi-4-Compute-Module" (id 2) (at 151.13 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
