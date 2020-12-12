@@ -858,8 +858,8 @@
   )
 
 
-  (no_connect (at 118.11 38.1))
   (no_connect (at 118.11 35.56))
+  (no_connect (at 118.11 38.1))
 
   (hierarchical_label "PCIe_CLK_nREQ" (shape input) (at 118.11 33.02 180)
     (effects (font (size 1.27 1.27)) (justify right))

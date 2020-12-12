@@ -1350,29 +1350,53 @@
     (path "/25c9bef4-19d7-4cf9-9dcd-ecc3e720ad67/5e220e3b-bc34-4869-aa1d-bbaab75b4fa8"
       (reference "Module1") (unit 1) (value "ComputeModule4-CM4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/1dbbab77-f1b9-4db7-a049-29aa7d3784b0"
-      (reference "J1") (unit 1) (value "Conn_01x35_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x35_P2.54mm_Vertical")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/a391b500-6e89-41aa-b4bb-291d0c87d105"
+      (reference "J1") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/baa2f259-2833-443a-a0a5-6312428dc7ab"
-      (reference "J2") (unit 1) (value "Conn_01x33_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/0c36b1a8-d1ee-4b60-bed9-dda7a6a39dcf"
+      (reference "J2") (unit 1) (value "Conn_01x13_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/14bc45ab-eac4-4259-97da-45c0634ecdd6"
-      (reference "J3") (unit 1) (value "Conn_01x33_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/0042ad25-9e03-497a-8fa6-cfd8f21e7b5a"
+      (reference "J3") (unit 1) (value "Conn_01x12_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/ae76b969-d37b-4903-95f3-512050261541"
-      (reference "J4") (unit 1) (value "Conn_01x35_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x35_P2.54mm_Vertical")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/a367e415-640b-4b85-a915-a5e74e1cc60c"
+      (reference "J4") (unit 1) (value "Conn_01x13_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/e66a6acd-79f9-45ff-b7ff-ea7be698006f"
-      (reference "J5") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/f73bb2be-9312-40e4-9179-ab3970dbea4f"
+      (reference "J5") (unit 1) (value "Conn_01x13_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/5aafa677-3d5d-4ce4-a5ed-c3cbc3273ec7"
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/d350e857-5cbf-47be-92c1-14a3df147d37"
       (reference "J6") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/62773d0d-2197-4455-84fe-49c7fc1f94f8"
-      (reference "R1") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/afa5f2fb-7223-419b-8813-d8bd223e9347"
+      (reference "J7") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/8a2c7b43-3ecc-4a19-856e-2b922ba5db08"
-      (reference "R2") (unit 1) (value "nf") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/497b1f24-0071-411a-80fd-78131c987c84"
+      (reference "J8") (unit 1) (value "Conn_01x17_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/5c7c46a5-d10a-4d65-ba9e-b00c177a0eba"
+      (reference "J9") (unit 1) (value "Conn_01x16_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/6fcdeb31-9ceb-418b-a270-96d959b2ad70"
+      (reference "J10") (unit 1) (value "Conn_01x12_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/fd226c4f-2f48-499d-84b1-7f7abe6b5e67"
+      (reference "J11") (unit 1) (value "Conn_01x12_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/f5fadb28-6698-427f-8a05-62277154dabd"
+      (reference "J12") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/a2de8af5-f621-4092-8302-314d148c2d9d"
+      (reference "J13") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/e66a6acd-79f9-45ff-b7ff-ea7be698006f"
+      (reference "J14") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/5aafa677-3d5d-4ce4-a5ed-c3cbc3273ec7"
+      (reference "J15") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/3cf0f43b-c5ce-4d4d-af20-777223374e5d"
+      (reference "JP1") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
     )
     (path "/cb63fc1d-4244-4a7e-916a-90f484386cd1/f6103e0f-4924-4107-9c5f-fec97d5a0114"
       (reference "Module1") (unit 2) (value "ComputeModule4-CM4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
