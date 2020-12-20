@@ -1,7 +1,5 @@
 (kicad_sch (version 20201015) (generator eeschema)
 
-  (page 1 4)
-
   (paper "A4")
 
   (lib_symbols
@@ -1371,31 +1369,40 @@
     (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/afa5f2fb-7223-419b-8813-d8bd223e9347"
       (reference "J7") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/497b1f24-0071-411a-80fd-78131c987c84"
-      (reference "J8") (unit 1) (value "Conn_01x17_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/47b28a3d-5697-446a-8004-0bbe6c9c9183"
+      (reference "J8") (unit 1) (value "Conn_01x01_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/5c7c46a5-d10a-4d65-ba9e-b00c177a0eba"
-      (reference "J9") (unit 1) (value "Conn_01x16_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical")
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/b54f3a20-185d-4be2-9663-dd9d309a83cb"
+      (reference "J9") (unit 1) (value "Conn_01x06_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/afaba486-fbab-4e42-b9c1-a6194bf157cd"
+      (reference "J10") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/a497e749-995e-4a7b-8dbc-dbcaf353fbd6"
+      (reference "J11") (unit 1) (value "Conn_01x06_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+    )
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/cd6a9555-6ea5-4c46-8301-d4b5e8295a4b"
+      (reference "J12") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
     (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/6fcdeb31-9ceb-418b-a270-96d959b2ad70"
-      (reference "J10") (unit 1) (value "Conn_01x12_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
+      (reference "J13") (unit 1) (value "Conn_01x12_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
     )
     (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/fd226c4f-2f48-499d-84b1-7f7abe6b5e67"
-      (reference "J11") (unit 1) (value "Conn_01x12_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
+      (reference "J14") (unit 1) (value "Conn_01x12_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
     )
     (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/f5fadb28-6698-427f-8a05-62277154dabd"
-      (reference "J12") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+      (reference "J15") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
     (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/a2de8af5-f621-4092-8302-314d148c2d9d"
-      (reference "J13") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "J16") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/e66a6acd-79f9-45ff-b7ff-ea7be698006f"
-      (reference "J14") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J17") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/5aafa677-3d5d-4ce4-a5ed-c3cbc3273ec7"
-      (reference "J15") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J18") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/3cf0f43b-c5ce-4d4d-af20-777223374e5d"
+    (path "/0f206677-1a7c-4cf3-876d-41fd766408b6/2f89508c-05ef-42fc-87eb-4dc9a5693275"
       (reference "JP1") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
     )
     (path "/cb63fc1d-4244-4a7e-916a-90f484386cd1/f6103e0f-4924-4107-9c5f-fec97d5a0114"
