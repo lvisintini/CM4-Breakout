@@ -22,3 +22,7 @@ However, this was not a waste of time:
 - Learned a lot about the CM4 module
 - Learned a lot about KiCad 6 (pre-release nightly versions)
 - Learned a lot about PCB design in general
+
+## Screenshot
+
+![Screenshot](https://github.com/lvisintini/CM4-Breakout/raw/master/Progress.png)
